@@ -163,9 +163,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-EdNetTitan - 
+Ed-Stem - 
 
-Project Link: [https://github.com/EdNetTitan/Unofficial_DevNet_CourseWork](https://github.com/EdNetTitan/Unofficial_DevNet_CourseWork)
+Project Link: [https://github.com/Ed-STEM/QuantumBillards](https://github.com/Ed-STEM/QuantumBillards)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
