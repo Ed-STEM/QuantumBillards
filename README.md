@@ -29,7 +29,7 @@ A project to attempt to build a 2D vizualisation of a quantum chaos system, the 
     <img src="static/Media/CourseLogo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Unofficial Cisco DevNet Associates Course</h3>
+  <h3 align="center">Quantum Billards - A Quantum Chaos Solution Visualization Project</h3>
 
   <p align="center">
     Here are some important project links!
